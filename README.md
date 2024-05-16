@@ -1,1 +1,1 @@
-Ciao# CorsoGit
+Ciao#
